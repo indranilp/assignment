@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25003" started-at="2021-12-07T03:01:51 IST" finished-at="2021-12-07T03:02:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25003" started-at="2021-12-07T03:01:51 IST" finished-at="2021-12-07T03:02:16 IST">
+      <class name="org.koo.webautomation.test.PeoplePageTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.koo.webautomation.test.PeoplePageTest@75881071]" name="beforeTest" is-config="true" duration-ms="3381" started-at="2021-12-07T03:01:51 IST" finished-at="2021-12-07T03:01:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testPeopleCategory()[pri:0, instance:org.koo.webautomation.test.PeoplePageTest@75881071]" name="testPeopleCategory" duration-ms="21409" started-at="2021-12-07T03:01:55 IST" finished-at="2021-12-07T03:02:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPeopleCategory -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.koo.webautomation.test.PeoplePageTest@75881071]" name="afterTest" is-config="true" duration-ms="187" started-at="2021-12-07T03:02:16 IST" finished-at="2021-12-07T03:02:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.koo.webautomation.test.PeoplePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
